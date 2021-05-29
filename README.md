@@ -3,6 +3,7 @@
     -  I'm ultra endurance cyclist
     -  I'm mountainbiker
     -  I'm french
+    -  I'm burger lover
  
 - 👀 I’m interested in ...
     - Develop amazing web apps :) 💥
